@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kitakkun
-- 👀 I’m interested in GUI Application development
-- 🌱 I’m currently learning JavaFX.
+- 👋 Hi, I’m @kitakkun.
+- 👀 Currently diving into the GameDev world, especially, Unity.
+- 🌱 Working on one big GameDev project for now...
 
 <!---
 kitakkun/kitakkun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
