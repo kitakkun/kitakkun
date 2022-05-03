@@ -15,7 +15,7 @@ I'm interested in
   - Mobile App Development 📱
   - and more...
 
-## More Infomation 💭
+## More Information 💭
 - Currently Working on some unique GameDev project...🌱
 - Infinity love towards Linux and macOS!!🐧🍎
 - I'm not so good at speaking English. But I prefer English to Japanese when it comes to computers.
