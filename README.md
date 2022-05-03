@@ -4,7 +4,7 @@
 - started programming in junior high school (over 8 years)
 - learning various programming languages (Java, PHP, Javascript, C#, Python, C, C++, ... and more)
 - mainly worked on web developments from junior high school to high school. (my high school still seems to use the website I created... not so good one)
-- created a video game like Tetris, and gave a presentation in high school.
+- created a video game like Tetris, and gave a presentation about it in high school.
 
 ## And Now... 👀
 I'm interested in
