@@ -1,8 +1,8 @@
 👋 Hi, I'm @kitakkun.
 
 ## My Backgrounds 📜
-- started programming in junior high school (over 8 years)
-- learning various programming languages (Java, PHP, Javascript, C#, Python, C, C++, ... and more)
+- coding since junior high school (over 9 years)
+- learning various programming languages (Java, PHP, Javascript, C#, Python, C, C++, Kotlin, ... and more)
 - mainly worked on web developments from junior high school to high school. (my high school still seems to use the website I created... not so good one)
 - created a video game like Tetris, and gave a presentation about it in high school.
 
@@ -16,14 +16,18 @@ I'm interested in
   - and more...
 
 ## More Information 💭
-- Currently Working on some unique GameDev project...🌱
+- Will be an Android Engineer next year! Loves Kotlin.
 - Infinity love towards Linux and macOS!!🐧🍎
-- I'm not so good at speaking English. But I prefer English to Japanese when it comes to computers.
+- Not so good at speaking English, but I prefer English to Japanese when it comes to computers.
 - Please feel free to contact me. My Twitter DM is open to anyone. Also, my website has contact form.
 
 Have a nice day! :)
 
-<!--
-kitakkun/kitakkun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# My GitHub Stats
+<a href="https://github-readme-stats.vercel.app/api?username=kitakkun">
+  <img src="https://github-readme-stats.vercel.app/api?username=kitakkun&show_icons=true&theme=radical&count_private=true&showing_icons=true" height="220px" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kitakkun">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitakkun&theme=radical" height="220px" />
+</a>
