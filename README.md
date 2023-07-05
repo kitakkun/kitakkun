@@ -23,7 +23,7 @@ I'm interested in
 
 Have a nice day! :)
 
-# My GitHub Stats
+## My GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api?username=kitakkun">
   <img src="https://github-readme-stats.vercel.app/api?username=kitakkun&show_icons=true&theme=radical&count_private=true&showing_icons=true" height="220px" />
 </a>
