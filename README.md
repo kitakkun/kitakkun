@@ -1,27 +1,15 @@
 👋 Hi, I'm @kitakkun.
 
-## My Backgrounds 📜
-- coding since junior high school (over 9 years)
-- learning various programming languages (Java, PHP, Javascript, C#, Python, C, C++, Kotlin, ... and more)
-- mainly worked on web developments from junior high school to high school. (my high school still seems to use the website I created... not so good one)
-- created a video game like Tetris, and gave a presentation about it in high school.
+A Kotlin enthusiast in Japan, with a passion for Kotlin Compiler Plugins.
+Currently working as an Android app developer at Mirrativ, Inc.
 
-## And Now... 👀
-I'm interested in
-  - Image Processing 🖼
-  - Deep Learning 🧠
-  - Video Game Development 🎮
-  - Software Development 💻
-  - Mobile App Development 📱
-  - and more...
+## Background 📜
 
-## More Information 💭
-- Will be an Android Engineer next year! Loves Kotlin.
-- Infinity love towards Linux and macOS!!🐧🍎
-- Not so good at speaking English, but I prefer English to Japanese when it comes to computers.
-- Please feel free to contact me. My Twitter DM is open to anyone. Also, my website has contact form.
-
-Have a nice day! :)
+My life revolves around computers:
+- Started coding in junior high school with Java.
+- Experienced in web, video game, Discord bot development, and more.
+- One and half years of internships at Mirrativ, Inc.
+- Talked at Kotlin Fest 2024. ([Proposal](https://fortee.jp/kotlin-fest-2024/proposal/59aca818-d5d5-4eb4-a123-abae563a7f28), [Archive Video](https://youtu.be/KeQyaLF-_9A?si=9fWrDPM6fnU7Wjur))
 
 ## My GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api?username=kitakkun">
